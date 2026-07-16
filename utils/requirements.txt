@@ -1,0 +1,69 @@
+# Core
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Jupyter
+jupyter
+ipykernel
+
+# Progress bars
+tqdm
+
+# Configuration
+python-dotenv
+
+# Image processing
+opencv-python
+Pillow
+
+# Utilities
+requests
+pyyaml
+
+# Model evaluation
+tensorboard
+
+# Experiment tracking
+wandb
+
+# Hugging Face
+transformers
+datasets
+accelerate
+evaluate
+
+# Data augmentation
+albumentations
+
+# Model summaries
+torchinfo
+
+opencv-python
+albumentations
+scikit-image
+
+transformers
+datasets
+tokenizers
+sentencepiece
+accelerate
+peft
+trl
+bitsandbytes
+
+# ui
+streamlit

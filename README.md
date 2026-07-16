@@ -12,8 +12,8 @@ A lightweight Streamlit web app for exploring the Breast Cancer Wisconsin datase
 2. Install the Python dependencies:
 
 ```bash
-pip install -r requirements/dl.txt
-pip install streamlit xgboost
+pip install -r utils/requirements.txt
+
 ```
 
 3. Start the app:
